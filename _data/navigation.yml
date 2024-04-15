@@ -1,0 +1,38 @@
+- name: System
+  link: /system/
+- name: Description
+  link: /datasets/tail/
+- name: Download
+  link: /download/
+- name: Benchmark
+  link: /benchmark/
+- name: Datasets Links
+  link: /links/otherlinks/
+  # dropdown:
+  #   - name: Datasets Links
+  #     link: /links/otherlinks/
+  #   - name : Tools
+  #     link: /links/tools/
+- name: Contact
+  link: /contact/
+
+
+# - name: Docs
+#   link: /docs/
+# - name: Example Pages
+#   link: /#
+#   dropdown:
+#     - name: Landing Page With Callouts
+#       link: /landing/
+#     - name: Sponsors Page
+#       link: /sponsors/
+#     - name: Image Gallery
+#       link: /gallery/
+#     - name: Products
+#       link: /products/
+#     - name: Recipe Page
+#       link: /example-recipe/
+#     - name: Showcase
+#       link: /showcase/
+# - name: Blog
+#   link: /blog/
