@@ -32,6 +32,7 @@ Sensors characteristics </figcaption>
 
 
 Each sensor and relative characteristics are represented in this table.
+Specially, tail provide the sensor data from wheel(wheel odom, vel, motor rpm and current) and quadruped robots(leg odom, contact and motor status).
 
 <figure>
  <img src="/img/sensors_table.jpg" style="width:50%" />

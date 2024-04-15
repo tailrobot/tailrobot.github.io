@@ -30,10 +30,10 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 
 ### Main characteristics
 
-- Recorded data are from multiple sensors, including a 3D LiDAR, a stereo frame camera, three ground-pointing RGB-D cameras, an IMU and an RTK-GPS device. Moreover, it provides kinematic parameters of both wheeled and quadruped robots within similar scenes while considering distinct motion characteristics. Detailed information is shown in [[System]](/system/).
+- Recorded data are from multiple sensors, including a 3D LiDAR, a stereo frame camera, three ground-pointing RGB-D cameras, an IMU and an RTK-GPS device. Moreover, it provides kinematic parameters of both wheeled and quadruped robots within similar scenes while considering distinct motion characteristics. Detailed information is shown in [[Dataset System]](/system/).
 
 
-- The data were collected on two beaches at the Double-Moon Bay, covering a wide scope of environmental perception data (surrounding and ground-pointing), terrain complexities (texture-less sandy soil, fine sand, coarse sand), and scene changes (illumination, moving objects, flowing sand). More related information is shown in [[Dataset]](/datasets/tail.md/).
+- The data were collected on two beaches at the Double-Moon Bay, covering a wide scope of environmental perception data (surrounding and ground-pointing), terrain complexities (texture-less sandy soil, fine sand, coarse sand), and scene changes (illumination, moving objects, flowing sand). More related information is shown in [[Dataset Description]](/datasets/tail.md/).
 
 
 - Several state-of-the-art (SOTA) SLAM algorithms are benchmarked using TAIL dataset and their performances are analyzed with the provided ground truth. 
@@ -51,6 +51,7 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 * 2024-03-01: Dataset sequences released (Plan).  -->
 * 2024-3-26: The [preprint](https://arxiv.org/abs/2403.16875) of our paper is aviliable on arxiv.
 * 2024-3-25: Our dataset website is released.
+* 2023-6-25: Our dataset begins.
 
 
 
