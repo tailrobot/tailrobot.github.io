@@ -49,6 +49,7 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 <!-- Driver code and time synchronization of event cameras are now available -->
 <!-- * 2024-03-05: Calibration results and rosbag are avaliable (Plan). 
 * 2024-03-01: Dataset sequences released (Plan).  -->
+* 2024-5-5: The [download links](/download/) are available.
 * 2024-3-26: The [preprint](https://arxiv.org/abs/2403.16875) of our paper is aviliable on arxiv.
 * 2024-3-25: Our dataset website is released.
 * 2023-6-25: Our dataset begins.
