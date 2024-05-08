@@ -49,6 +49,7 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 <!-- Driver code and time synchronization of event cameras are now available -->
 <!-- * 2024-03-05: Calibration results and rosbag are avaliable (Plan). 
 * 2024-03-01: Dataset sequences released (Plan).  -->
+* 2024-5-7: The [TAIL-Plus](/datasets/tail-plus/) dataset is released.
 * 2024-5-5: The [download links](/download/) are available.
 * 2024-3-26: The [preprint](https://arxiv.org/abs/2403.16875) of our paper is aviliable on arxiv.
 * 2024-3-25: Our dataset website is released.
@@ -59,13 +60,24 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 
 ### Publications
 
-We would appreciate it if you use our dataset and cite our [paper](https://arxiv.org/abs/2403.16875). 
+We would appreciate it if you use our dataset and cite our papers. 
+
+[TAIL](https://arxiv.org/abs/2403.16875):
 ```
 @article{tail2023yao,
   title={TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments},
   author={Yao, Chen and Ge, Yangtao and Shi, Guowei and Wang, Zirui and Yang, Ningbo and Zhu, zheng and Wei, Hexiang and Zhao, Yuntian and Wu, Jing and Jia, Zhenzhong},
   journal = {arXiv preprint arXiv:2403.16875},
   year = {2024}
+}
+```
+[TAIL-Plus](https://arxiv.org/abs/2404.13600):
+```
+@misc{plus2024wang,
+      title={Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments}, 
+      author={Wang, Zirui and Yao, Chen and Ge, Yangtao and Shi, Guowei and Yang, Ningbo and Zhu, zheng and Dong, Kewei and Wei, Hexiang and Jia, Zhenzhong and Wu, Jing},
+      booktitle = {IEEE ICRA 2024 Workshop on Field Robotics},
+      year = {2024}
 }
 ```
 

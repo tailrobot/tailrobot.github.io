@@ -1,7 +1,11 @@
 - name: System
   link: /system/
 - name: Description
-  link: /datasets/tail/
+  dropdown:
+  - name: TAIL
+    link: /datasets/tail/
+  - name: TAIL-Plus
+    link: /datasets/tail-plus/
 - name: Download
   link: /download/
 - name: Benchmark
