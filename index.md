@@ -49,7 +49,9 @@ Terrain-aware perception holds the potential to improve the robustness and accur
 <!-- Driver code and time synchronization of event cameras are now available -->
 <!-- * 2024-03-05: Calibration results and rosbag are avaliable (Plan). 
 * 2024-03-01: Dataset sequences released (Plan).  -->
-* 2024-5-7: The [TAIL-Plus](/datasets/tail-plus/) dataset is released.
+* 2024-5-15: The [TAIL](/datasets/tail.md/) dataset has been accepcted to IEEE Robotics and Automation Letters.
+* 2024-5-13: The [TAIL-Plus](/datasets/tail-plus/) dataset has been presented at ICRA 2024 Workshop on Field Robotics.
+<!-- * 2024-5-7: The [TAIL-Plus](/datasets/tail-plus/) dataset is released. -->
 * 2024-5-5: The [download links](/download/) are available.
 * 2024-3-26: The [preprint](https://arxiv.org/abs/2403.16875) of our paper is aviliable on arxiv.
 * 2024-3-25: Our dataset website is released.
